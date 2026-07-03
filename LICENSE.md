@@ -1,4 +1,4 @@
-# 
+# Ultimato ImageSense script. Baixe e instale com suporte a plugins e implantação local — rápido, seguro e fácil de usar.
 
 
 
